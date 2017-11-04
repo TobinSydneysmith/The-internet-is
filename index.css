@@ -104,7 +104,7 @@ h1:after {
   -webkit-background-clip: text;
 }
 .hoverbox.hover_14:hover ~ h1:after {
-  content: "Adatable";
+  content: "Adaptable";
   background: linear-gradient(to right, #1d2b64, #F8CDDA);
   -webkit-background-clip: text;
 }
